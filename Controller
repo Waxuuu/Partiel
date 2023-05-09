@@ -1,0 +1,6 @@
+#Set toute les fonctions de jeu 
+#Lancement de la partie 
+#Fonction random pour chaque nouveau bloc 
+#set la condition de lock un bloc quand il est juste et set la condition de ne pas lock un bloc quand il est incorrect 
+#set la fonction "deja placer" si le joueur se trompe dans un chiffre ou sur son emplacement
+#Set la condition de Win si le sudoku est compléter et correct et Set la condition de Loose si le sudoku est compléter mais incorrect
